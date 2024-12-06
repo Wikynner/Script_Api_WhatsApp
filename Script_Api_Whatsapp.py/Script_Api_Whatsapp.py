@@ -13,7 +13,7 @@ port = 3000  # porta onde a API roda por padrao
 endpoint = "/client/sendMessage/comunidadezdg" #endpoint para enviar mensagem 
 
 # Sua chave de API
-api_key = "2024controladoria4202" #Inicialmente vem como padrão Comunidadezdg.com.br
+api_key = "comunidadezdg" #Inicialmente vem como padrão comunidadezdg.com.br
 
 # Dados da mensagem
 data = {
