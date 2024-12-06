@@ -1,4 +1,4 @@
-#Codigo Simples para automatição de mensagem Via whatsapp atravéz de API_Whatsapp gratuita (https://comunidadezdg.com.br/api-gratis-2024/)
+#Codigo Simples para automatização de mensagem Via whatsapp atravéz de API_Whatsapp gratuita (https://comunidadezdg.com.br/api-gratis-2024/)
 # Necessario seguir instruçoes presentes no link acima para baixar e instalar a api
 #Após Seguir todos os procedimentos ultilize este codigo para fazer seus testes e se comunicar com a api
 #OBS: api_key foi trocada para 2024controladoria4202 mas voce pode colocar a api_key que desejar na parte do .env .Inicialmente vem como padrão Comunidadezdg.com.br
